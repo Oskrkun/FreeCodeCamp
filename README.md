@@ -2,10 +2,9 @@
 
 Proyectos completados en FreeCodeCamp que reflejan mi progreso en la plataforma de aprendizaje en línea. Continuaré agregando más proyectos a medida que aprendo. ¡Explora mis proyectos y ayúdame a mejorarlos!
 
-<div>
-<div style="float:left"><img src="resources/01.svg" width="25" height="25"/></>
-<div style="float:right;">Responsive Web Design Certification<br>Certificación de Diseño Web Receptivo</div>
-</div>
+| <img src="resources/01.svg" width="25" height="25"/> | Responsive Web Design Certification |
+|:--|:--| 
+|  | Certificación de Diseño Web Receptivo |
 
 <img src="resources/01.svg" width="25" height="25"/>&nbsp;&nbsp; Responsive Web Design Certification / Certificación de Diseño Web Receptivo
 
