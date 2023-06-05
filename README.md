@@ -2,7 +2,7 @@
 
 Proyectos completados en FreeCodeCamp que reflejan mi progreso en la plataforma de aprendizaje en línea. Continuaré agregando más proyectos a medida que aprendo. ¡Explora mis proyectos y ayúdame a mejorarlos!
 
-
+[![C#](resources/01.svg) C#] &nbsp;&nbsp; Responsive Web Design Certification / Certificación de Diseño Web Receptivo
 <img src="resources/01.svg" title="C#" alt="C#" width="25" height="25"/>&nbsp;&nbsp; Responsive Web Design Certification / Certificación de Diseño Web Receptivo
 
 <img src="resources/02.svg" title="C#" alt="C#" width="25" height="25"/>&nbsp;&nbsp:JavaScript Algorithms and Data Structures Certification / Certificación de Algoritmos y Estructuras de Datos de JavaScript
