@@ -3,7 +3,7 @@
 Proyectos completados en FreeCodeCamp que reflejan mi progreso en la plataforma de aprendizaje en línea. Continuaré agregando más proyectos a medida que aprendo. ¡Explora mis proyectos y ayúdame a mejorarlos!
 
 
-<img src="resources/01.svg" title="C#" alt="C#" width="50" height="50"/>&nbsp;&nbsp; Responsive Web Design Certification / Certificación de Diseño Web Receptivo
+<img src="resources/01.svg" title="C#" alt="C#" width="50" height="50"/>&nbsp;&nbsp; <span style="vertical-align: middle;">Responsive Web Design Certification / Certificación de Diseño Web Receptivo/span>
 JavaScript Algorithms and Data Structures Certification / Certificación de Algoritmos y Estructuras de Datos de JavaScript
 Front End Development Libraries Certification / Certificación de Bibliotecas de Desarrollo Front End
 Data Visualization Certification / Certificación de Visualización de Datos
