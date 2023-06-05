@@ -2,8 +2,6 @@
 
 Proyectos completados en FreeCodeCamp que reflejan mi progreso en la plataforma de aprendizaje en línea. Continuaré agregando más proyectos a medida que aprendo. ¡Explora mis proyectos y ayúdame a mejorarlos!
 
-
-<img src="resources/01.svg" width="25" height="25" style="float:left"/>
 <div style="float:right; margin-left: 10px;">
 <img src="resources/01.svg" width="25" height="25" style="float:left"/>
 Responsive Web Design Certification<br>  
