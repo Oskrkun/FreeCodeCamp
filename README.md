@@ -1,19 +1,20 @@
 # FreeCodeCamp
+
 Proyectos completados en FreeCodeCamp que reflejan mi progreso en la plataforma de aprendizaje en línea. Continuaré agregando más proyectos a medida que aprendo. ¡Explora mis proyectos y ayúdame a mejorarlos!
 
 
-Proyectos de FreeCodeCamp
-Este repositorio contiene los proyectos que he completado en FreeCodeCamp, una plataforma de aprendizaje en línea que ofrece cursos de programación gratuitos.
-
-Requisitos
-[Lenguaje de programación] [Versión] (Enlace a la página de descarga)
-[Biblioteca o software adicional] [Versión] (Enlace a la página de descarga)
-etc.
-Instrucciones
-Descarga o clona el repositorio en tu máquina local.
-Abre la carpeta de un proyecto específico.
-Sigue las instrucciones específicas del proyecto en el archivo README.
-Contribuciones
-Siéntete libre de crear problemas o solicitudes de extracción para ayudarme a mejorar mis proyectos. ¡Toda ayuda es bienvenida!
-
-Espero que esto te ayude a estructurar tu archivo README y brindar información útil a los visitantes de tu repositorio. ¡Buena suerte con tus proyectos!
+<img src="resources/01.svg" title="C#" alt="C#" width="50" height="50"/>&nbsp;&nbsp; Responsive Web Design Certification / Certificación de Diseño Web Receptivo
+JavaScript Algorithms and Data Structures Certification / Certificación de Algoritmos y Estructuras de Datos de JavaScript
+Front End Development Libraries Certification / Certificación de Bibliotecas de Desarrollo Front End
+Data Visualization Certification / Certificación de Visualización de Datos
+Relational Database Certification / Certificación de Base de Datos Relacionales
+Back End Development and APIs Certification / Certificación de Desarrollo Back End y APIs
+Quality Assurance Certification / Certificación de Aseguramiento de Calidad
+Scientific Computing with Python Certification / Certificación de Computación Científica con Python
+Data Analysis with Python Certification / Certificación de Análisis de Datos con Python
+Information Security Certification / Certificación de Seguridad de la Información
+Machine Learning with Python Certification / Certificación de Aprendizaje Automático con Python
+College Algebra with Python Certification / Certificación de Álgebra Universitaria con Python
+Coding Interview Prep / Preparación de Entrevistas de Codificación
+Project Euler
+Legacy Responsive Web Design Certification / Certificación de Diseño Web Receptivo Heredado
