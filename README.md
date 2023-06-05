@@ -3,7 +3,7 @@
 Proyectos completados en FreeCodeCamp que reflejan mi progreso en la plataforma de aprendizaje en línea. Continuaré agregando más proyectos a medida que aprendo. ¡Explora mis proyectos y ayúdame a mejorarlos!
 
 | | CERTIFICATIONS |
-|:--|:--|
+|:--:|:--|
 | <img src="resources/01.svg" width="25" height="25"/> | Responsive Web Design Certification |
 |<img src="resources/02.svg" width="25" height="25"/>|JavaScript Algorithms and Data Structures Certification|       
 |<img src="resources/03.svg" width="25" height="25"/> |Front End Development Libraries Certification|              
