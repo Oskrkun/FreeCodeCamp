@@ -1,0 +1,35 @@
+body {
+  background-color: #191919;
+  color: antiquewhite;
+  font-family: 'Times New Roman', serif;
+}
+
+#title {
+  text-align: center;
+  text-shadow: 2px 2px 5px black;
+}
+
+#img-caption, #tribute-info {
+  font-style: italic;
+}
+
+#image {
+  display: block;
+  max-width: 100%;
+  margin: 0 auto;  
+  box-shadow: 2px 2px 10px grey;
+}
+
+#tribute-info {
+  font-size: 0.9em;
+  text-align: justify;
+}
+
+#tribute-link {
+  color: antiquewhite;
+  text-decoration: none;
+}
+
+#tribute-link:hover {
+  color: orange;  
+}
