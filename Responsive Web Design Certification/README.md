@@ -11,6 +11,7 @@ Finalmente, aprendí a crear páginas web que se adaptan a diferentes tamaños d
 ➜ Learn CSS Colors by Building a Set of Colored Markers ✅<br>
 ➜ Learn HTML Forms by Building a Registration Form ✅<br>
 ➜ Survey Form ✅<br><br>
+
 ---
 
 ➜ Learn the CSS Box Model by Building a Rothko Painting ✅<br>
@@ -18,21 +19,25 @@ Finalmente, aprendí a crear páginas web que se adaptan a diferentes tamaños d
 ➜ Learn Typography by Building a Nutrition Label ✅<br>
 ➜ Learn Accessibility by Building a Quiz ✅<br>
 ➜ Tribute Page ✅<br><br>
+
 ---
 
 ➜ Learn More About CSS Pseudo Selectors By Building A Balance Sheet ✅<br>
 ➜ Learn Intermediate CSS by Building a Picasso Painting ✅<br>
 ➜ Learn Responsive Web Design by Building a Piano<br>
 ➜ Technical Documentation Page<br><br>
+
 ---
 
 ➜ Learn CSS Variables by Building a City Skyline<br>
 ➜ Learn CSS Grid by Building a Magazine<br>
 ➜ Product Landing Page<br><br>
+
 ---
 ➜ Learn CSS Animation by Building a Ferris Wheel<br>
 ➜ Learn CSS Transforms by Building a Penguin<br>
 ➜ Personal Portfolio Webpage<br><br>
+
 ---
 -- CERTIFICATION --
 
