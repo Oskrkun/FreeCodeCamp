@@ -11,3 +11,6 @@ Learn More About CSS Pseudo Selectors By Building A Balance Sheet
 Learn the CSS Box Model by Building a Rothko Painting
 Learn Typography by Building a Nutrition Label
 Tribute Page
+
+
+dir /b /ad > lista.txt
