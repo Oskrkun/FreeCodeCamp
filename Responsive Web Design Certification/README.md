@@ -24,8 +24,8 @@ Finalmente, aprendí a crear páginas web que se adaptan a diferentes tamaños d
 
 ➜ Learn More About CSS Pseudo Selectors By Building A Balance Sheet ✅<br>
 ➜ Learn Intermediate CSS by Building a Picasso Painting ✅<br>
-➜ Learn Responsive Web Design by Building a Piano<br>
-➜ Technical Documentation Page<br><br>
+➜ Learn Responsive Web Design by Building a Piano ✅<br>
+➜ Technical Documentation Page ✅<br><br>
 
 ---
 
