@@ -6,33 +6,33 @@ Finalmente, aprendí a crear páginas web que se adaptan a diferentes tamaños d
 
 
 
-➜ Learn HTML by Building a Cat Photo App ✅
-➜ Learn Basic CSS by Building a Cafe Menu ✅
-➜ Learn CSS Colors by Building a Set of Colored Markers ✅
-➜ Learn HTML Forms by Building a Registration Form ✅
-➜ Survey Form ✅
+➜ Learn HTML by Building a Cat Photo App ✅<br>
+➜ Learn Basic CSS by Building a Cafe Menu ✅<br>
+➜ Learn CSS Colors by Building a Set of Colored Markers ✅<br>
+➜ Learn HTML Forms by Building a Registration Form ✅<br>
+➜ Survey Form ✅<br><br>
 
 
-➜ Learn the CSS Box Model by Building a Rothko Painting ✅
-➜ Learn CSS Flexbox by Building a Photo Gallery ✅
-➜ Learn Typography by Building a Nutrition Label ✅
-➜ Learn Accessibility by Building a Quiz ✅
-➜ Tribute Page ✅
+➜ Learn the CSS Box Model by Building a Rothko Painting ✅<br>
+➜ Learn CSS Flexbox by Building a Photo Gallery ✅<br>
+➜ Learn Typography by Building a Nutrition Label ✅<br>
+➜ Learn Accessibility by Building a Quiz ✅<br>
+➜ Tribute Page ✅<br><br>
 
 
-➜ Learn More About CSS Pseudo Selectors By Building A Balance Sheet ✅
-➜ Learn Intermediate CSS by Building a Picasso Painting ✅
-➜ Learn Responsive Web Design by Building a Piano
-➜ Technical Documentation Page
+➜ Learn More About CSS Pseudo Selectors By Building A Balance Sheet ✅<br>
+➜ Learn Intermediate CSS by Building a Picasso Painting ✅<br>
+➜ Learn Responsive Web Design by Building a Piano<br>
+➜ Technical Documentation Page<br><br>
 
 
-➜ Learn CSS Variables by Building a City Skyline
-➜ Learn CSS Grid by Building a Magazine
-➜ Product Landing Page
+➜ Learn CSS Variables by Building a City Skyline<br>
+➜ Learn CSS Grid by Building a Magazine<br>
+➜ Product Landing Page<br><br>
 
-➜ Learn CSS Animation by Building a Ferris Wheel
-➜ Learn CSS Transforms by Building a Penguin
-➜ Personal Portfolio Webpage
+➜ Learn CSS Animation by Building a Ferris Wheel<br>
+➜ Learn CSS Transforms by Building a Penguin<br>
+➜ Personal Portfolio Webpage<br><br>
 
 -- CERTIFICATION --
 
