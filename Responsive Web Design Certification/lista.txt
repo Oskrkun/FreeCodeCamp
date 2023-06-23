@@ -1,0 +1,13 @@
+Blank template
+Build a Survey
+Learn Accessibility by Building a Quiz
+Learn Basic CSS by Building a Cafe Menu
+Learn CSS Colors by Building a Set of Colored Markers
+Learn CSS Flexbox by Building a Photo Gallery
+Learn HTML by Building a Cat Photo App
+Learn HTML Forms by Building a Registration Form
+Learn Intermediate CSS by Building a Picasso Painting
+Learn More About CSS Pseudo Selectors By Building A Balance Sheet
+Learn the CSS Box Model by Building a Rothko Painting
+Learn Typography by Building a Nutrition Label
+Tribute Page
