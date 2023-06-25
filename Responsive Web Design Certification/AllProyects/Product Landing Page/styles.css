@@ -1,0 +1,207 @@
+/* Global styles */
+body {
+  margin: 0;
+  font-family: sans-serif;
+}
+
+/* Header styles */
+#header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background-color: #333;
+  color: white;
+  margin: 0;
+  z-index: 1;
+}
+
+#header img {
+  height: 50px;
+}
+
+#nav-bar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 10px;
+}
+
+#nav-bar ul {
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+#nav-bar li {
+  margin-right: 10px;
+}
+
+#nav-bar a {
+  color: white;
+  text-decoration: none;
+  padding: 5px;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+
+#nav-bar a:hover {
+  background-color: white;
+  color: #333;
+}
+
+/* Main styles */
+main {
+  padding-top: 80px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  margin-top: 70px;
+}
+
+section {
+  margin-bottom: 50px;
+  max-width: 800px;
+  text-align: center;
+}
+
+h2 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+li {
+  font-size: 1.2rem;
+  margin-bottom: 10px;
+}
+
+/* Video styles */
+#video {
+  display: block;
+  margin: 50px auto;
+  max-width: 800px;
+}
+
+/* Form styles */
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 50px;
+}
+
+label {
+  font-size: 1.2rem;
+  margin-bottom: 10px;
+}
+
+input[type=email] {
+  padding: 10px;
+  border-radius: 5px;
+  border: none;
+  margin-bottom: 20px;
+}
+
+input[type=submit] {
+  padding: 10px;
+  background-color: #333;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+input[type=submit]:hover {
+  background-color: white;
+  color: #333;
+}
+
+/* Media query */
+@media screen and (max-width: 600px) {
+  /* Cambiar el diseño del menú de navegación */
+  #nav-bar {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  #nav-bar li {
+    margin-right: 0;
+    margin-bottom: 10px;
+  }
+
+  #nav-bar a {
+    padding: 10px;
+  }
+
+  /* Cambiar el diseño del formulario */
+  form {
+    width: 100%;
+  }
+
+  input[type=email] {
+    width: 100%;
+    margin-right: 0;
+    margin-bottom: 20px;
+  }
+
+  input[type=submit] {
+    width: 100%;
+  }
+}
+
+/* Utilizar CSS Flexbox para crear un diseño flexible y responsivo */
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: stretch;
+}
+
+.product {
+  flex-basis: calc(33.33% - 20px);
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+.product img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+}
+
+.product h3 {
+  margin: 10px;
+}
+
+.product p {
+  margin: 10px;
+}
+
+.product a {
+  display: block;
+  padding: 10px;
+  background-color: #333;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+
+.product a:hover {
+  background-color: white;
+  color: #333;
+}

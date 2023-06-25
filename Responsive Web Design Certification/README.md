@@ -31,7 +31,7 @@ Finalmente, aprendí a crear páginas web que se adaptan a diferentes tamaños d
 
 ➜ Learn CSS Variables by Building a City Skyline ✅<br>
 ➜ Learn CSS Grid by Building a Magazine ✅<br>
-➜ Product Landing Page<br><br>
+➜ Product Landing Page ✅<br><br>
 
 ---
 ➜ Learn CSS Animation by Building a Ferris Wheel<br>
