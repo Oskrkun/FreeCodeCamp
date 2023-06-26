@@ -1,4 +1,6 @@
-# FreeCodeCamp <img src="resources/freecodecamp-icon.svg" width="50" height="50"/> 
+# FreeCodeCamp   
+
+<div align="center"><img src="resources/freecodecamp-icon.svg" width="50" height="50"/></div><div align="left"><h2>FreeCodeCamp</h2>  </div>|
 
 Proyectos completados en FreeCodeCamp que reflejan mi progreso en la plataforma de aprendizaje en línea. Continuaré agregando más proyectos a medida que aprendo. ¡Explora mis proyectos y ayúdame a mejorarlos!
 
