@@ -1,4 +1,4 @@
-<div style="display:flex; align-items:center; justify-content:center; width:100%;">
+<div style="display:flex; align-items:center; justify-content:center; flex-wrap: wrap;">
   <img src="resources/freecodecamp-icon.svg" width="50" height="50" style="margin-right: 10px;"/>
   <h1 style="margin: 0;">FreeCodeCamp</h1>
 </div>
