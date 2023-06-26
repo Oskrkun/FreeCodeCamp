@@ -41,7 +41,7 @@ Finalmente, aprendí a crear páginas web que se adaptan a diferentes tamaños d
 ---
 -- CERTIFICATION --
 
-<img src="resources/01.svg" width="25" height="25"/>
+<img src="../resources/01.svg" width="25" height="25"/>
 
 
 
