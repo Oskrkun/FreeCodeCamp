@@ -1,0 +1,277 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+body {
+    background: white;
+    height: 100vh;
+    overflow: hidden;
+}
+
+.containier{
+	position: absolute;
+	margin: auto;
+	top: 10%;
+	left: 10%;
+	z-index: 3;
+}
+
+.wheel {
+	border: 2px solid white;
+	border-radius: 50%;
+	margin-left: 50px;
+	position: absolute;
+	height: 55vw;
+	width: 55vw;
+	max-width: 500px;
+	max-height: 500px;
+	animation-name: wheel;
+	animation-duration: 10s;
+	animation-iteration-count: infinite;
+	animation-timing-function: linear;
+}
+
+.line {
+	background-color: white;
+	width: 50%;
+	height: 2px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform-origin: 0% 0%;
+}
+
+.line:nth-of-type(2) {
+  transform: rotate(60deg);
+}
+.line:nth-of-type(3) {
+  transform: rotate(120deg);
+}
+.line:nth-of-type(4) {
+  transform: rotate(180deg);
+}
+.line:nth-of-type(5) {
+  transform: rotate(240deg);
+}
+.line:nth-of-type(6) {
+  transform: rotate(300deg);
+}
+
+.cabin {
+  background-color: red;
+  width: 20%;
+  height: 20%;
+  position: absolute;
+  border: 2px solid;
+  border-radius: 10%;
+  transform-origin: 50% 0%;
+  /*animation: cabins 10s ease-in-out infinite;*/
+  animation: cabins 10s ease-in-out infinite, cabin-rotate 10s linear infinite;
+  background-clip: content-box;
+}
+
+.window {
+	border: 1px solid;
+	background-color: rgba(0,0,0,0);
+	width: 30%;
+	height: 30%;
+	position: absolute;
+	top: 25%;
+	border-radius: 5%;
+	background-clip: padding-box;
+}
+
+.window.left {
+  left: 2%;
+}
+
+.window.right {
+  right: 2%;
+}
+
+.door {
+  background-color: rgba(255, 255, 255, 0.5);
+  width: 30%;
+  height: 60%;
+  position: absolute;
+  bottom: 0%;
+  left: 35%;
+  transform: rotate(0deg);
+  border: 1px solid;
+}
+
+.cabin:nth-of-type(1) {
+  right: -8.5%;
+  top: 50%;
+}
+.cabin:nth-of-type(2) {
+  right: 17%;
+  top: 93.5%;
+}
+.cabin:nth-of-type(3) {
+  right: 67%;
+  top: 93.5%;
+}
+.cabin:nth-of-type(4) {
+  left: -8.5%;
+  top: 50%;
+}
+.cabin:nth-of-type(5) {
+  left: 17%;
+  top: 7%;
+}
+.cabin:nth-of-type(6) {
+  right: 17%;
+  top: 7%;
+}
+
+
+.stars,
+.twinkleMask,
+.twinkleMask2,
+.clouds {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    height: 100%;
+    display: block;
+}
+
+.stars {
+    background: #000 url('https://wolf.drjm.co.uk/nightsky/stars.jpg') repeat top center;
+    z-index: 0;
+}
+
+.twinkleMask {
+    background: transparent url('https://wolf.drjm.co.uk/nightsky/twinklemask.png') repeat top center;
+    z-index: 1;
+    animation: twinkleFrames 700s linear infinite;
+}
+
+.twinkleMask2 {
+    background: transparent url('https://wolf.drjm.co.uk/nightsky/twinkleMask2.png') repeat top center;
+    z-index: 2;
+    height: 200%;
+    animation: twinkleFrames2 300s linear infinite;
+}
+
+
+
+@keyframes fogFrames {
+    0% {
+        transform: none;
+    }
+
+    10% {
+        transform: scaleY(.75) translate(5%, -2%) rotate(15deg);
+    }
+
+    25% {
+        transform: scaleY(1) translate(10%, 7%);
+    }
+
+    50% {
+        transform: scaleY(0.5) rotate(-15deg);
+    }
+
+    75% {
+        transform: scaleY(0.2) translate(7%, -2%);
+    }
+
+    100% {
+        transform: none;
+    }
+
+}
+
+@keyframes twinkleFrames {
+    from {
+        background-position: 0 0;
+    }
+
+    to {
+        background-position: -10000px 5000px;
+    }
+}
+
+@keyframes twinkleFrames2 {
+    from {
+        background-position: 0 0;
+    }
+
+    to {
+        background-position: 10000px 5000px;
+    }
+}
+
+@keyframes cloudsFrames {
+    from {
+        background-position: 0 0;
+    }
+
+    to {
+        background-position: 10000px 0;
+    }
+}
+
+
+@keyframes wheel {
+   0% {
+     transform: rotate(0deg);
+   }
+   100% {
+     transform: rotate(360deg);
+   }
+}
+
+
+@keyframes cabin-rotate {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(-360deg);
+  }
+}
+@keyframes cabins {
+  0% {
+    transform: rotate(0deg);
+    background-color: red;
+  }
+  10% {
+    background-color: orange;
+  }
+  20% {
+    background-color: yellow;
+  }
+  30% {
+    background-color: green;
+  }
+  40% {
+    background-color: blue;
+  }
+  50% {
+    background-color: purple;
+  }
+  60% {
+    background-color: pink;
+  }
+  70% {
+    background-color: coral;
+  }
+  80% {
+    background-color: lime;
+  }
+  90% {
+    background-color: teal;
+  }
+  100% {
+    transform: rotate(-360deg);
+    background-color: red;
+  }
+}
