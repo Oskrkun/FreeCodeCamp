@@ -41,7 +41,9 @@ Finalmente, aprendí a crear páginas web que se adaptan a diferentes tamaños d
 ---
 -- CERTIFICATION --
 
-<img src="../resources/certificateresponsivewebdesign.png" width="525" height="409"/>
+<div style="text-align:center">
+  <img src="../resources/certificateresponsivewebdesign.png" width="525" height="409"/>
+</div>
 
 
 
