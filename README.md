@@ -1,6 +1,6 @@
-<div style="display:flex; align-items:center; justify-content:center;">
+<div style="display:flex; align-items:center; justify-content:center; width:100%;">
   <img src="resources/freecodecamp-icon.svg" width="50" height="50" style="margin-right: 10px;"/>
-  <h1 style="margin-top: 0;">FreeCodeCamp</h1>
+  <h1 style="margin: 0;">FreeCodeCamp</h1>
 </div>
 
 Proyectos completados en FreeCodeCamp que reflejan mi progreso en la plataforma de aprendizaje en línea. Continuaré agregando más proyectos a medida que aprendo. ¡Explora mis proyectos y ayúdame a mejorarlos!
