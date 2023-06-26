@@ -35,7 +35,7 @@ Finalmente, aprendí a crear páginas web que se adaptan a diferentes tamaños d
 
 ---
 ➜ Learn CSS Animation by Building a Ferris Wheel ✅<br>
-➜ Learn CSS Transforms by Building a Penguin<br>
+➜ Learn CSS Transforms by Building a Penguin ✅<br>
 ➜ Personal Portfolio Webpage<br><br>
 
 ---
