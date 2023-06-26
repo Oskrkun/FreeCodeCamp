@@ -1,4 +1,4 @@
-<div style="background-image: url(resources/freecodecamp-icon.png); background-position: center 50px; height: 200px;"></div>
+<img src="resources/freecodecamp-icon.png" style="object-position: center 50px; height: 200px;">
 
 Proyectos completados en FreeCodeCamp que reflejan mi progreso en la plataforma de aprendizaje en línea. Continuaré agregando más proyectos a medida que aprendo. ¡Explora mis proyectos y ayúdame a mejorarlos!
 
