@@ -1,4 +1,4 @@
-<img src="..//resources/javascript.svg"/>
+<img src="..//resources/javascript.svg" title="C#" alt="C#" width="50" height="50"/>
 
 <h1 align="center">JavaScript Algorithms and Data Structures</h1>
 
