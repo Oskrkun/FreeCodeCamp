@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="../resources/javascript.svg" width="480" height="240"/>
+    
     <h1 align="center">JavaScript Algorithms and Data Structures</h1>
 </div>
 
@@ -61,7 +61,9 @@
       </tbody>
     </table>
   </div>
-  <div style="width: 50%;"></div>
+  <div style="width: 50%;">
+	<img src="../resources/javascript.svg" width="480" height="240"/>
+  </div>
 </div>
 </div>
 
