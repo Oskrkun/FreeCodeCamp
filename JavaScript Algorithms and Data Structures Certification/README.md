@@ -17,3 +17,8 @@
 |<div align="left">JavaScript Algorithms and Data Structures Projects</div>| ![Progress](https://progress-bar.dev/100/) |
 
 
+<p align="center">-- CERTIFICATION --</p>
+
+<p align="center">
+  <img src="../resources/JavaScript Algorithms and Data Structures.png" width="525" height="409"/>
+</p>
