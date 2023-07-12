@@ -1,5 +1,4 @@
 <div id="header" align="center">
-    
     <h1 align="center">JavaScript Algorithms and Data Structures</h1>
 </div>
 
@@ -9,7 +8,7 @@
 
 
 <div style="display: flex; flex-direction: row; flex-wrap: nowrap;">
-  <div style="width: 50%;">
+  <div>
     <table>
       <thead>
         <tr>
@@ -61,7 +60,7 @@
       </tbody>
     </table>
   </div>
-  <div style="width: 50%;">
+  <div>
 	<img src="../resources/javascript.svg"/>
   </div>
 </div>
