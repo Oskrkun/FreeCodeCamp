@@ -1,5 +1,5 @@
 <div style="display: flex; flex-wrap: wrap;">
-  <div  style="flex: 1;">
+  <div style="flex-basis: 50%; max-width: 50%;">
     <table>
       <thead>
         <tr>
@@ -51,7 +51,7 @@
       </tbody>
     </table>
   </div>
-  <div  style="flex: 1;">
+  <div style="flex-basis: 50%; max-width: 50%;">
 	<img src="../resources/javascript.svg"/>
   </div>
 </div>
