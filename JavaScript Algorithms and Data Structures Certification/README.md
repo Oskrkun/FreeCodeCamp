@@ -8,7 +8,7 @@
 
 
 
-<div style="display: flex; flex-direction: row;">
+<div style="display: flex; flex-direction: row; flex-wrap: nowrap;">
   <div style="width: 50%;">
     <table>
       <thead>
