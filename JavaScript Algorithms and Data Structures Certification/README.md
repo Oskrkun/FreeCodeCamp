@@ -1,4 +1,4 @@
-<div style="display: flex; flex-wrap: wrap;">
+<div style="display: flex">
   <div style="flex: 1;">
     <table style="max-width: 100%;">
       <thead>
