@@ -2,8 +2,8 @@
     <h1 align="center">JavaScript Algorithms and Data Structures</h1>
 </div>
 
-<div style="display: flex;">
-  <div style="flex: 1;">
+<div style="display: inline-flex;">
+  <div style="width: 50%;">
     <table>
       <thead>
         <tr>
@@ -55,7 +55,7 @@
       </tbody>
     </table>
   </div>
-  <div style="flex: 1;">
+  <div style="width: 50%;">
 	<img src="../resources/javascript.svg"/>
   </div>
 </div>
