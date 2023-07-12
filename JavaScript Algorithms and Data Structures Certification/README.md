@@ -1,5 +1,9 @@
-<div style="display: flex">
-  <div style="flex: 1;">
+<head>
+  <link rel="stylesheet" type="text/css" href="../styles.css">
+</head>
+
+<div class="flex-container">
+  <div class="flex-item">
     <table style="max-width: 100%;">
       <thead>
         <tr>
@@ -16,7 +20,7 @@
       </tbody>
     </table>
   </div>
-  <div style="flex: 1;">
+  <div class="flex-item">
     <img src="../resources/javascript.svg" style="max-width: 100%;">
   </div>
 </div>
