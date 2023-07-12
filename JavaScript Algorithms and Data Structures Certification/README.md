@@ -8,7 +8,7 @@ Proyectos completados en FreeCodeCamp que reflejan mi progreso en la plataforma 
 |<div align="left">ES6</div>| ![Progress](https://progress-bar.dev/42/) |
 |<div align="left">Regular Expressions</div>| ![Progress](https://progress-bar.dev/0/) |
 |<div align="left">Debugging</div>| ![Progress](https://progress-bar.dev/0/) |
-|<div align="left">Basic Data Structures[Progress](https://progress-bar.dev/0/) |
+|<div align="left">Basic Data Structures</div>| ![Progress](https://progress-bar.dev/0/) |
 |<div align="left">Basic Algorithm Scripting</div>| ![Progress](https://progress-bar.dev/0/) |
 |<div align="left">Object Oriented Programming</div>| ![Progress](https://progress-bar.dev/0/) |
 |<div align="left">Functional Programming</div>| ![Progress](https://progress-bar.dev/0/) |
