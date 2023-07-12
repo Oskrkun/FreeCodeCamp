@@ -20,7 +20,7 @@
       <tbody>
         <tr>
           <td align="left">Basic JavaScript</td>
-          <td align="center">![Progress](https://progress-bar.dev/100/)</td>
+          <td align="center"><img src="https://progress-bar.dev/100/" alt="Progress"></td>
         </tr>
         <!-- Insert more rows here -->
       </tbody>
