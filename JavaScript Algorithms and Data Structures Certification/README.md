@@ -62,7 +62,7 @@
     </table>
   </div>
   <div style="width: 50%;">
-	<img src="../resources/javascript.svg" width="480" height="240"/>
+	<img src="../resources/javascript.svg"/>
   </div>
 </div>
 </div>
