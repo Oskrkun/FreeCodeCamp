@@ -1,4 +1,4 @@
-<img src="../resources/javascript" width="525" height="525"/>
+<img src="../resources/javascript" width="480" height="240"/>
 
 <h1 align="center">JavaScript Algorithms and Data Structures</h1>
 
