@@ -1,4 +1,4 @@
-<img src="../resources/certificateresponsivewebdesign.png" width="525" height="409"/>
+<img src="../resources/javascript" width="525" height="525"/>
 
 <h1 align="center">JavaScript Algorithms and Data Structures</h1>
 
