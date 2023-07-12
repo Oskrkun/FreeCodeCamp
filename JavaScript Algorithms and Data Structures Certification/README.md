@@ -2,12 +2,7 @@
     <h1 align="center">JavaScript Algorithms and Data Structures</h1>
 </div>
 
-
-
-
-
-
-<div style="display: flex; flex-direction: row; flex-wrap: nowrap;">
+<div>
   <div>
     <table>
       <thead>
