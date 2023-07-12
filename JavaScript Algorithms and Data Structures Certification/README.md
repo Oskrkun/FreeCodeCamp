@@ -3,6 +3,12 @@
     <h1 align="center">JavaScript Algorithms and Data Structures</h1>
 </div>
 
+In the JavaScript Data Structures and Algorithms certification, I learned the fundamentals of JavaScript, including variables, arrays, objects, loops, and functions. Once I mastered the basics, I applied my knowledge by creating algorithms to manipulate strings and factorize numbers.
+
+Along the way, I also learned two important programming styles or paradigms: Object-Oriented Programming (OOP) and Functional Programming (FP). This allowed me to choose the most suitable programming approach for each situation and develop more efficient and scalable code.
+
+This certification provided me with the necessary skills to create interactive and sophisticated web applications, enhancing the user experience and adding value to the websites I develop. With this knowledge, I can work more effectively with development teams and collaborate on more complex projects.
+
 | <div align="center">TITLE</div> |<div align="center">PROGRESS</div>  | 
 |:--|:--|
 |<div align="left">Basic JavaScript</div>| ![Progress](https://progress-bar.dev/100/) |
