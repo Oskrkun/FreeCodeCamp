@@ -1,6 +1,8 @@
-<img src="..//resources/freecodecamp-icon.png"/>
+<img src="..//resources/javascript.svg"/>
 
-Proyectos completados en FreeCodeCamp que reflejan mi progreso en la plataforma de aprendizaje en línea. Continuaré agregando más proyectos a medida que aprendo. ¡Explora mis proyectos y ayúdame a mejorarlos!
+<h1 align="center">JavaScript Algorithms and Data Structures</h1>
+
+
 
 | <div align="center">TITLE</div> |<div align="center">PROGRESS</div>  | 
 |:--|:--|
