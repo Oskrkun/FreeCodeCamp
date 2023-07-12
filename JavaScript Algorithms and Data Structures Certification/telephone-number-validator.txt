@@ -1,0 +1,17 @@
+function telephoneCheck(str) {
+  // Utiliza una expresión regular para verificar si la cadena cumple con alguno de los formatos válidos para números de EE. UU.
+  return /^(1\s?)?(\(\d{3}\)|\d{3})[-\s]?(\d{3})[-\s]?(\d{4})$/.test(str);
+}
+
+telephoneCheck("555-555-5555");
+/*
+/: Inicio de la expresión regular.
+^: Coincide con el comienzo de la cadena.
+(1\s?)?: Coincide con un código de país opcional, que consta de un 1 seguido de un espacio opcional. El signo ? indica que el grupo de paréntesis anterior es opcional.
+(\(\d{3}\)|\d{3}): Coincide con un código de área entre paréntesis o sin paréntesis, que consta de tres dígitos numéricos. El grupo de paréntesis () indica que los dígitos numéricos están encerrados en paréntesis, y la barra vertical | indica que la expresión regular puede coincidir con cualquiera de las dos opciones (con o sin paréntesis).
+[-\s]?: Coincide con un guión o un espacio opcional. El signo [] indica un conjunto de caracteres válidos, y el signo ? indica que el conjunto de caracteres anterior es opcional.
+(\d{3}): Coincide con los primeros tres dígitos del número de teléfono.
+[-\s]?: Coincide con un guión o un espacio opcional.
+(\d{4}): Coincide con los últimos cuatro dígitos del número de teléfono.
+$: Coincide con el final de la cadena.
+/: Fin de la expresión regular.*/

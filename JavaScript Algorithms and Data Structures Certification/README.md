@@ -14,6 +14,6 @@
 |<div align="left">Object Oriented Programming</div>| ![Progress](https://progress-bar.dev/0/) |
 |<div align="left">Functional Programming</div>| ![Progress](https://progress-bar.dev/0/) |
 |<div align="left">Intermediate Algorithm Scripting</div>| ![Progress](https://progress-bar.dev/0/) |
-|<div align="left">JavaScript Algorithms and Data Structures Projects</div>| ![Progress](https://progress-bar.dev/0/) |
+|<div align="left">JavaScript Algorithms and Data Structures Projects</div>| ![Progress](https://progress-bar.dev/100/) |
 
 

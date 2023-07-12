@@ -1,0 +1,27 @@
+function convertToRoman(num) {
+  let romanNumeral = ''; // Crea una cadena vacía para almacenar la representación en números romanos del número arábigo
+  const romanNumerals = { // Crea un objeto que asocia valores romanos con valores arábigos
+    M: 1000,
+    CM: 900,
+    D: 500,
+    CD: 400,
+    C: 100,
+    XC: 90,
+    L: 50,
+    XL: 40,
+    X: 10,
+    IX: 9,
+    V: 5,
+    IV: 4,
+    I: 1
+  };
+  for (let key in romanNumerals) { // Itera sobre el objeto de valores romanos
+    while (num >= romanNumerals[key]) { // Mientras el número arábigo sea mayor o igual que el valor arábigo correspondiente al valor romano actual
+      romanNumeral += key; // Agrega el valor romano correspondiente a la cadena de representación en números romanos
+      num -= romanNumerals[key]; // Resta el valor arábigo correspondiente al valor romano actual del número arábigo
+    }
+  }
+  return romanNumeral; // Devuelve la cadena de representación en números romanos
+}
+
+convertToRoman(36);

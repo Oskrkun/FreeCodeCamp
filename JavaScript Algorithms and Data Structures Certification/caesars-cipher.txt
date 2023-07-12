@@ -1,0 +1,18 @@
+function rot13(str) {
+  let decodedStr = ''; // Crea una cadena vacía para almacenar la cadena decodificada
+  for (let i = 0; i < str.length; i++) { // Itera sobre cada carácter de la cadena
+    let charCode = str.charCodeAt(i); // Obtiene el valor ASCII del carácter
+    if (charCode >= 65 && charCode <= 90) { // Si el carácter es una letra mayúscula
+      let decodedCharCode = charCode - 13; // Desplaza el valor ASCII del carácter en 13 lugares hacia atrás
+      if (decodedCharCode < 65) { // Si el valor ASCII decodificado es menor que 65 (el valor ASCII para A)
+        decodedCharCode += 26; // Suma 26 para obtener el valor ASCII correspondiente a la letra decodificada
+      }
+      decodedStr += String.fromCharCode(decodedCharCode); // Agrega el carácter decodificado a la cadena decodificada
+    } else { // Si el carácter no es una letra mayúscula
+      decodedStr += str[i]; // Agrega el carácter original a la cadena decodificada sin hacer ninguna transformación
+    }
+  }
+  return decodedStr; // Devuelve la cadena decodificada
+}
+
+rot13("SERR PBQR PNZC");

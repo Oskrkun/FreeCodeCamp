@@ -19,3 +19,10 @@ Proyectos completados en FreeCodeCamp que reflejan mi progreso en la plataforma 
 |<div align="center"><img src="resources/13.svg" width="25" height="25"/></div>|<div align="left">Coding Interview Prep<br>Preparación de Entrevistas de Codificación</div>| ![Progress](https://progress-bar.dev/0/) |
 |<div align="center"><img src="resources/14.svg" width="25" height="25"/></div>|<div align="left">Project Euler<br>Project Euler</div>| ![Progress](https://progress-bar.dev/0/) |    
 |<div align="center"><img src="resources/15.svg" width="25" height="25"/></div>|<div align="left">Legacy Responsive Web Design Certification<br>Certificación de Diseño WebReceptivo Heredado</div>| ![Progress](https://progress-bar.dev/0/) |
+
+
+<p align="center">-- CERTIFICATION --</p>
+
+<p align="center">
+  <img src="../resources/JavaScript Algorithms and Data Structures.png" width="525" height="409"/>
+</p>
