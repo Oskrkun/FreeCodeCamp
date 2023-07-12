@@ -1,5 +1,5 @@
-<div id="header" align="center">
-    <h1 align="center">JavaScript Algorithms and Data Structures <img src="../resources/javascript.svg"/></h1>
+<div style="display: flex; align-items: center; justify-content: center; height: 100%;">
+  <h1 style="text-align: center;">JavaScript Algorithms and Data Structures <img src="../resources/javascript.svg"/></h1>
 </div>
 
 <div style="display: inline-flex;">
