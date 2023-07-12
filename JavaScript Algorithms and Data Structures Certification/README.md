@@ -3,7 +3,7 @@
 </div>
 
 <div>
-  <div>
+  <div float:"left">
     <table>
       <thead>
         <tr>
@@ -55,7 +55,7 @@
       </tbody>
     </table>
   </div>
-  <div>
+  <div float:"left">
 	<img src="../resources/javascript.svg"/>
   </div>
 </div>
