@@ -8,7 +8,7 @@
 
 
 
-
+<div>
 | <div align="center">TITLE</div> |<div align="center">PROGRESS</div>  | 
 |:--|:--|
 |<div align="left">Basic JavaScript</div>| ![Progress](https://progress-bar.dev/100/) |
@@ -21,5 +21,5 @@
 |<div align="left">Functional Programming</div>| ![Progress](https://progress-bar.dev/0/) |
 |<div align="left">Intermediate Algorithm Scripting</div>| ![Progress](https://progress-bar.dev/0/) |
 |<div align="left">JavaScript Algorithms and Data Structures Projects</div>| ![Progress](https://progress-bar.dev/0/) |
-
+</div>
 
