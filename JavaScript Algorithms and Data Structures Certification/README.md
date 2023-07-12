@@ -9,7 +9,7 @@
 
 
 <div style="display: flex;">
-  <div style="width: 50%;">
+  <div style="width: 50%;" float: "left">
     <table>
       <thead>
         <tr>
@@ -61,7 +61,7 @@
       </tbody>
     </table>
   </div>
-  <div style="width: 50%;">
+  <div style="width: 50%;" float: "left">
 	<img src="../resources/javascript.svg" width="480" height="240"/>
   </div>
 </div>
